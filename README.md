@@ -44,6 +44,13 @@ Add lead analytics dashboard
 Add automatic lead assignment to sales representatives
 Track lead conversion status
 Add follow-up scheduling
+## 🔐 Security
+
+API keys, OAuth credentials, Telegram bot tokens, and other secrets
+are not included in this repository.
+
+After importing the n8n workflow, configure your own credentials
+for Gemini, Google Sheets, Gmail, and Telegram.
 
 
 
